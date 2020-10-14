@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## UCL-COMP0016-2020-Team-21 Development Blog
+
+This is the development blog for the project `'NTTData1 AR app for surgery demos'`
+
+Team members: `Zeyu Zhou` `Arib Islam` `Li Yean Chew`
 
 You can use the [editor on GitHub](https://github.com/UCL-COMP0016-2020-Team-21/UCL-COMP0016-2020-Team-21.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
