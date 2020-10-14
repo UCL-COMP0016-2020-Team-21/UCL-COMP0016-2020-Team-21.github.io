@@ -1,6 +1,6 @@
-## UCL-COMP0016-2020-Team-21 Development Blog
+## NTTData1 AR app for surgery demos
 
-This is the development blog for the project `'NTTData1 AR app for surgery demos'`
+This is UCL-COMP0016-2020-Team-21 development blog for the project `'NTTData1 AR app for surgery demos'`
 
 Team members: `Zeyu Zhou` `Arib Islam` `Li Yean Chew`
 
