@@ -4,6 +4,15 @@ This is UCL-COMP0016-2020-Team-21 development blog for the project `'NTTData1 AR
 
 Team members: `Zeyu Zhou` `Arib Islam` `Li Yean Chew`
 
+`Development Blog`
+```Week XX Date:xx-xx-xxxx
+
+XXX
+
+```
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 You can use the [editor on GitHub](https://github.com/UCL-COMP0016-2020-Team-21/UCL-COMP0016-2020-Team-21.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
