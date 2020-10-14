@@ -4,8 +4,18 @@ This is UCL-COMP0016-2020-Team-21 development blog for the project `'NTTData1 AR
 
 Team members: `Zeyu Zhou` `Arib Islam` `Li Yean Chew`
 
-`Development Blog`
-```Week XX Date:xx-xx-xxxx
+### Development Blog
+```markdown
+
+# Week XX Date:xx-xx-xxxx
+
+XXX
+
+```
+
+```markdown
+
+# Week XX Date:xx-xx-xxxx
 
 XXX
 
