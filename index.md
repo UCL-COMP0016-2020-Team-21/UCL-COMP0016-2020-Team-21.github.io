@@ -11,13 +11,16 @@ Team members: `Zeyu Zhou` `Arib Islam` `Li Yean Chew`
 
 Meeting with Client 
 
-Our team arranged a meeting in advance, and we met our client from NTT Data on Thursday (22 Oct 2020) using Microsoft Teams. We were given a brief introduction on the background
-of the company and we had a chat with our client to understand the requirements of our project. For our team, we were supposed to build an Augmented Reality (AR) application
-which demonstrates the procedure of MRI scan. Our client suggested several other surgical procedures to be included in the application as well. One of the key requirements is
-for us to include an MRI scanning machine and some educational games related to the scan in the application. After discussing in detailed, we were able to identify the main
-users of our application as well as some key features that should be included in our application. We also created a channel between us and our client to ensure smooth
-communication throughout the project (which includes meeting the client every two weeks). At the end of the meeting, we were able to get a rough idea of our application and were
-ready to get started on the project. 
+Our team arranged a meeting in advance, and we met our client from NTT Data on Thursday (22 Oct 2020) using Microsoft
+Teams. We were given a brief introduction on the background of the company and we had a chat with our client to understand
+the requirements of our project. For our team, we were supposed to build an Augmented Reality (AR) application which
+demonstrates the procedure of MRI scan. Our client suggested several other surgical procedures to be included in the
+application as well. One of the key requirements is for us to include an MRI scanning machine and some educational
+games related to the scan in the application. After discussing in detailed, we were able to identify the main users
+of our application as well as some key features that should be included in our application. We also created a channel
+between us and our client to ensure smooth communication throughout the project (which includes meeting the client every
+two weeks). At the end of the meeting, we were able to get a rough idea of our application and were ready to get started
+on the project. 
 
 ```
 
